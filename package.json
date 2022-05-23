@@ -1,0 +1,25 @@
+{
+  "name": "constTruffle",
+  "version": "1.0.0",
+  "description": "- 기업협약프로젝트  - 3월 7일 ~ 4월 15  ## 기업협약 :날짜미정 ---",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "ganache": "^7.0.4",
+    "path": "^0.12.7",
+    "truffle-hdwallet-provider-klaytn": "^1.4.2",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  },
+  "private": true
+}
